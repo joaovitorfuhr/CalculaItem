@@ -1,0 +1,26 @@
+{
+  "name": "calcula-item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "lab -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitorfuhr/calcula-item.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitorfuhr/calcula-item/issues"
+  },
+  "homepage": "https://github.com/joaovitorfuhr/calcula-item#readme",
+  "devDependencies": {
+    "lab": "^13.0.2",
+    "code": "^4.0.0"
+  }
+}
