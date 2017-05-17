@@ -2,7 +2,7 @@
 1 verbose cli [ '/home/ubuntu/.nvm/versions/node/v7.7.4/bin/node',
 1 verbose cli   '/home/ubuntu/.nvm/versions/node/v7.7.4/bin/npm',
 1 verbose cli   'run',
-1 verbose cli   'test' ]
+1 verbose cli   'exec' ]
 2 info using npm@4.1.2
 3 info using node@v7.7.4
 4 verbose stack Error: Failed to parse json
@@ -17,7 +17,7 @@
 4 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
 5 verbose cwd /home/ubuntu/joaovitorfuhr/contaPalavras
 6 error Linux 4.2.0-34-generic
-7 error argv "/home/ubuntu/.nvm/versions/node/v7.7.4/bin/node" "/home/ubuntu/.nvm/versions/node/v7.7.4/bin/npm" "run" "test"
+7 error argv "/home/ubuntu/.nvm/versions/node/v7.7.4/bin/node" "/home/ubuntu/.nvm/versions/node/v7.7.4/bin/npm" "run" "exec"
 8 error node v7.7.4
 9 error npm  v4.1.2
 10 error file /home/ubuntu/joaovitorfuhr/contaPalavras/package.json
