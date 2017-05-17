@@ -1,0 +1,28 @@
+
+  "name": "contaPalavras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "lab -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitorfuhr/contaPalavras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitorfuhr/contaPalavras/issues"
+  },
+  "homepage": "https://github.com/joaovitorfuhr/contaPalavras#readme",
+  "devDependencies": {
+    "lab": "^13.0.2",
+    "code": "^4.0.0"
+  }
+}
+
+    Contact GitHub API Training Shop Blog About
